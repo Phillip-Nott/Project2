@@ -1,0 +1,3 @@
+// API key
+const API_KEY = `pk.eyJ1IjoicGhpbG5vdHQiLCJhIjoiY2swcmZleGVqMDRodDNsbzJhampyaGxxMCJ9.TAnBMRuy0uu6-d7PcYvL3Qpk.eyJ1IjoicGhpbG5vdHQiLCJhIjoiY2swcmZleGVqMDRodDNsbzJhampyaGxxMCJ9.TAnBMRuy0uu6-d7PcYvL3Qpk.eyJ1IjoicGhpbG5vdHQiLCJhIjoiY2swcmZleGVqMDRodDNsbzJhampyaGxxMCJ9.TAnBMRuy0uu6-d7PcYvL3Q
+`;
